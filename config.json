@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricscpdate",
+        "uuid": 8248500,
+        "checksum": "0au5y"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
